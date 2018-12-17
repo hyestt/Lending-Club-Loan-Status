@@ -44,4 +44,4 @@ I used three different models KNN, RF, and SGD to predict the result. For hyperp
 
 ### Result 
 
-![alt text](https://github.com/hyestt/Walmart-Recruiting---Store-Sales-Forecasting/blob/master/Result.png)
+![alt text](https://github.com/hyestt/Lending-Club-Loan-Status/blob/master/result.png)
